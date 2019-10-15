@@ -21,8 +21,8 @@ common:
     source: meta/cifar100_meta.txt
 
     print_freq: 10  
-    save_path: checkpoint/cifar100_pt1
-    
+    save_path: checkpoint/cifar100
+
     num_classes: 20
 
     thresh: 0.95
