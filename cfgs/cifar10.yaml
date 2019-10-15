@@ -1,0 +1,28 @@
+coeff:
+    graph: 1
+    label: 5
+    local: 0.05
+
+common:
+    large_bs: 1000
+    small_bs: 32
+    epochs: 200
+    repeated: 10
+    input_size: 32
+    workers: 16
+    lr: 0.0001
+
+    arch: cifar_C4_L2
+    classifier: SimpleClassifier
+    layers: [7, 19]
+    c_layer: 19
+
+    root: data/cifar10/
+    source: meta/cifar10_meta.txt
+
+    print_freq: 10  
+    save_path: checkpoint/cifar10
+    
+    num_classes: 10
+
+    thresh: 0.95

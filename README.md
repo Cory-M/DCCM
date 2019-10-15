@@ -23,7 +23,7 @@ If you find DCCM useful in your research, please consider citing:
 
 
 ### Introduction
-![DCCM](https://jlwu1992.github.io/publications/DCCM/DCCM_pipeline.png) 
+![DCCM](https://raw.githubusercontent.com/Cory-M/img-folder/master/dccm_pipeline.png) 
 Figure 1. The pipeline of the proposed DCCM.
 
 
@@ -58,7 +58,7 @@ Please note that all reported performance are tested under this environment.
 ### Comparisons with SOTAs
 
 Table 1. Clustering performance of different methods on six challenging datasets.
-![Results](https://jlwu1992.github.io/publications/DCCM/Clustering_Results.png) 
+![Results](https://raw.githubusercontent.com/Cory-M/img-folder/master/dccm_results.png) 
 
 ### Reference Github Repos
 
@@ -69,4 +69,3 @@ Table 1. Clustering performance of different methods on six challenging datasets
 
 
 Our group at SenseTime Research is looking for algorithm researchers and engineers. Our research interests include object detection, tracking, classification, and segmentation, auto network search, network compression and quantization on mobile terminals, 3d gaze tracking, computer vision related SDK, and product platform development. Our group aims to pioneer the computer vision based IOT industry. We have a lot of NOI & ACM gold medal winners, and thousands of GPU Cards. Our team has win the world champions of MegaFace in face recognition and VOT challenge in object tracking, and has published many research papers in top conferences, such as CVPR, ICCV, ECCV, and NeurIPS. Please feel free to contact us with Wechat#: 18810636695 or Email: wangfei@sensetime.com if you are interested in our group.
-
