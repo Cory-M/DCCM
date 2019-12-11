@@ -2,7 +2,7 @@
 
 This repository is a PyTorch implementation for Deep Comprehensive Correlation Mining for Image Clustering (accepted to ICCV 2019) at https://arxiv.org/abs/1904.06925?context=cs.CV
 
-by [Jianlong Wu](https://jlwu1992.github.io/), Keyu Long, [Fei Wang](https://scholar.google.com/citations?user=ljt16JkAAAAJ&hl=zh-CN), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Cheng Li](https://scholar.google.com/citations?user=F5rVlz0AAAAJ&hl=zh-CN), [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm) and [Hongbin Zha](https://scholar.google.com/citations?user=LQxSSgYAAAAJ&hl=zh-CN).
+by [Jianlong Wu](https://jlwu1992.github.io/)\*, Keyu Long\*, [Fei Wang](https://scholar.google.com/citations?user=ljt16JkAAAAJ&hl=zh-CN), [Chen Qian](https://scholar.google.com/citations?user=AerkT0YAAAAJ&hl=zh-CN), [Cheng Li](https://scholar.google.com/citations?user=F5rVlz0AAAAJ&hl=zh-CN), [Zhouchen Lin](http://www.cis.pku.edu.cn/faculty/vision/zlin/zlin.htm) and [Hongbin Zha](https://scholar.google.com/citations?user=LQxSSgYAAAAJ&hl=zh-CN).
 
 ### citation
 If you find DCCM useful in your research, please consider citing:
