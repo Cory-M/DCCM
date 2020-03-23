@@ -61,7 +61,7 @@ class DIM_Loss(torch.nn.Module):
 
 		# local loss
 		Ej = -F.softplus(-self.local_D(Y_cat_M)).mean()
-		Em = -F.softplus(self.local_D(Y_cat_M_fake)).mean()
-		local_loss = -(Em + Ej)
+		Em = F.softplus(self.local_D(Y_cat_M_fake)).mean()
+		local_loss = -(Ej - Em)
 
 		return local_loss
